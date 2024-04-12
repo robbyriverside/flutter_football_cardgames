@@ -1,6 +1,6 @@
 # Flutter Football Cardgames
 
-[spash image](assets/images/splash%20screen.png)
+![spash image](assets/images/splash%20screen.png)
 
 ## GPT Prompt
 

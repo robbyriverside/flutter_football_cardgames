@@ -1,5 +1,7 @@
 # Flutter Football Cardgames
 
+[spash image](assets/images/splash%20screen.png)
+
 ## GPT Prompt
 
 You are going to help me design a card game that simulates an NFL football game from the perspective of a head coach. Every season a coach gets handed a team by the Teams GM or general manager. That is your hand it should be at least as big as the number of players on the field at one time. Or perhaps each game in the season the coach selects which cards from his larger hand he will play, but that might reqytwo decks, which would be interesting. Please generate 3 different set of rules for a game, including how a team moves down the field, how to play run vs pass, and include a strategy that makes it challenging to figure out what the other player is doing. Describe game for each variation in detail and include strength and weaknesses as well as how close it is to actual NFL coaching strategy 
